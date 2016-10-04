@@ -4,6 +4,8 @@ def add_two(x,y):
 def multiply_two(x,y):
     return x*y
 
+def subtract(x, y):
+    return (x-y)
 
 def main():
     x=float(input("enter the first value "))
