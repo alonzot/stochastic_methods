@@ -26,7 +26,7 @@ def square_list(value_list):
     l2 = [x**2 for x in value_list]
     return l2
 
-         
+
 # call the main() function
 if __name__ == '__main__' :
     main()
